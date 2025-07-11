@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: '&#x27;x&#x27; is accessible outside the while loop because it is initialized
+    within the loop.'
+  - text: The final value of &#x27;x&#x27; after the loop terminates affects &#x27;x&#x27;
+      outside the loop scope.
+  - text: '&#x27;x&#x27; is recreated and reinitialized to 5 at the beginning of each
+    iteration of the loop.'
+  - text: "&#x27;y&#x27;, declared outside the loop, accumulates changes made within\
+    \ the loop across iterations."
+  - text: The final value of &#x27;y&#x27; can be used outside the loop since it retains
+      its value and scope after the loop.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47931#comment
+status: Solved
+record: -1
+custom_name: "Loop Scoops: Var Ventures Inside"
+local_check: false
