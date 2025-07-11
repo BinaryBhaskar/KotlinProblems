@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - scanner.nextLine()
+  - scanner.nextInt()
+  - scanner.next()
+  - readln()
+options:
+  - Reads a string
+  - Reads a whole line
+  - Reads a whole line and returns a non-null string
+  - Reads a number
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20642#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

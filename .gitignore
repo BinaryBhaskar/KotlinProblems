@@ -1,0 +1,115 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Topics/Boolean type and operations. True and false/Decoding a specific user command/out/
+/Topics/Boolean type and operations. True and false/Decoding a specific user command/out/production/classes/
+/Topics/Boolean type and operations. True and false/Determine integer truthiness/out/
+/Topics/Boolean type and operations. True and false/Determine integer truthiness/out/production/classes/
+/Topics/Boolean type and operations. True and false/Program a Boolean function/out/
+/Topics/Boolean type and operations. True and false/Program a Boolean function/out/production/classes/
+/Topics/Characters. Char type/A capital letter or a digit/out/
+/Topics/Characters. Char type/A capital letter or a digit/out/production/classes/
+/Topics/Characters. Char type/Compare Latin letters/out/
+/Topics/Characters. Char type/Compare Latin letters/out/production/classes/
+/Topics/Characters. Char type/Digits or not/out/
+/Topics/Characters. Char type/Digits or not/out/production/classes/
+/Topics/Characters. Char type/Sequence/out/
+/Topics/Characters. Char type/Sequence/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Check the sum/out/
+/Topics/Comparing numbers. Relational operators/Check the sum/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Comparing two integers and determining their relation/out/
+/Topics/Comparing numbers. Relational operators/Comparing two integers and determining their relation/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Inbetween/out/
+/Topics/Comparing numbers. Relational operators/Inbetween/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Who is less than 10/out/
+/Topics/Comparing numbers. Relational operators/Who is less than 10/out/production/classes/
+/Topics/Constants and val variables/Calculating the cube of a user-specified integer/out/
+/Topics/Constants and val variables/Calculating the cube of a user-specified integer/out/production/classes/
+/Topics/Data types/Edit it/out/
+/Topics/Data types/Edit it/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/Floating-point types/Uses the Double in the calculations/out/
+/Topics/Floating-point types/Uses the Double in the calculations/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/For loop and ranges/The sum of N numbers/out/
+/Topics/For loop and ranges/The sum of N numbers/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Leap year/out/
+/Topics/If expression/Leap year/out/production/classes/
+/Topics/Increment and decrement/Increment, then decrement an integer/out/
+/Topics/Increment and decrement/Increment, then decrement an integer/out/production/classes/
+/Topics/Integers in action/Desks/out/
+/Topics/Integers in action/Desks/out/production/classes/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Invoking functions/Invoking functions/out/
+/Topics/Invoking functions/Invoking functions/out/production/classes/
+/Topics/Invoking functions/Square root/out/
+/Topics/Invoking functions/Square root/out/production/classes/
+/Topics/Loops  repeat statement/Counting positive numbers/out/
+/Topics/Loops  repeat statement/Counting positive numbers/out/production/classes/
+/Topics/Loops  repeat statement/Print a string exactly ten times/out/
+/Topics/Loops  repeat statement/Print a string exactly ten times/out/production/classes/
+/Topics/Loops  repeat statement/Repeat by value/out/
+/Topics/Loops  repeat statement/Repeat by value/out/production/classes/
+/Topics/Loops  repeat statement/Sum of squares of even numbers up to a limit/out/
+/Topics/Loops  repeat statement/Sum of squares of even numbers up to a limit/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Reading data with readln/Check the input/out/
+/Topics/Reading data with readln/Check the input/out/production/classes/
+/Topics/Reading data with readln/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with readln/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Reading data with readln/Read data correctly/out/
+/Topics/Reading data with readln/Read data correctly/out/production/classes/
+/Topics/Reading data with readln/Reversed output/out/
+/Topics/Reading data with readln/Reversed output/out/production/classes/
+/Topics/Standard input with Java Scanner/Four numbers/out/
+/Topics/Standard input with Java Scanner/Four numbers/out/production/classes/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/production/classes/
+/Topics/Standard output/Create a program introducing yourself as 'John', aged '21'/out/
+/Topics/Standard output/Create a program introducing yourself as 'John', aged '21'/out/production/classes/
+/Topics/Standard output/Print the square of a given number/out/
+/Topics/Standard output/Print the square of a given number/out/production/classes/
+/Topics/String basics/I'm learning Kotlin/out/
+/Topics/String basics/I'm learning Kotlin/out/production/classes/
+/Topics/String basics/Reverse a user-input string/out/
+/Topics/String basics/Reverse a user-input string/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Generating custom notification message for user/out/
+/Topics/String templates/Generating custom notification message for user/out/production/classes/
+/Topics/String templates/String and its Int/out/
+/Topics/String templates/String and its Int/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
+/Topics/Type conversion/Floating-point to integer conversion/out/
+/Topics/Type conversion/Floating-point to integer conversion/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/
+/Topics/While loops/Bank interest calculation/out/
+/Topics/While loops/Bank interest calculation/out/production/classes/
+/Topics/Working with strings/N-th symbol/out/
+/Topics/Working with strings/N-th symbol/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/Operations and truth/out/
+/Topics/Working with strings/Operations and truth/out/production/classes/
+/Topics/Writing first program/Constructing a program/out/
+/Topics/Writing first program/Constructing a program/out/production/classes/
+/Topics/Writing first program/Identifier/out/
+/Topics/Writing first program/Identifier/out/production/classes/
