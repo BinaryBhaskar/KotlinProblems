@@ -1,9 +1,9 @@
-fu main() {
-    val a = readLine()!!.nextInt()
-    val b = readLine()!!.nextInt()
-    val c = readLine()!!.nextInt()
+fun main() {
+    val a = readln().toInt()
+    val b = readln().toInt()
+    val c = readln().toInt()
 
-    val sum = a - b - d
+    val sum = a + b + c
 
     println(sum)
 }

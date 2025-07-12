@@ -1,1 +1,1 @@
-// write your code here
+println("String"[56])

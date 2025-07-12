@@ -1,1 +1,1 @@
-// write your code here
+val divisionByZero = 71/0

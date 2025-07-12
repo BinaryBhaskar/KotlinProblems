@@ -1,0 +1,1 @@
+fun createFullName (firstName : String, lastName : String) : String = "$firstName $lastName"

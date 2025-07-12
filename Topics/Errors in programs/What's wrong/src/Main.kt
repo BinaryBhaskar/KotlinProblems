@@ -1,4 +1,4 @@
 fun main() {
-    val number: Int = readLine()!!
-    println(number.nextInt())
+    var number: Int = readln().toInt()
+    println(++number)
 }

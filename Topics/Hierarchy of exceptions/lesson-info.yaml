@@ -2,3 +2,8 @@ content:
   - Theory
   - Extending type
   - RuntimeException
+  - Handling division by zero exception in a program
+  - Hierarchy overview
+  - ArithmeticException
+  - IndexOutOfBoundsException
+  - Match descriptions

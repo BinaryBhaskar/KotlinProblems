@@ -6,7 +6,7 @@ fun suspiciousFunction (param: Int) {
         0 -> throw Exception("Some exceptions?")
         1 -> throw ArithmeticException("Division by zero")
         2 -> throw Exception("An exception occurred here")
-        3 -> throw IOException()
+        3 -> throw IOException("The IOException occurred")
     }
 }        
 

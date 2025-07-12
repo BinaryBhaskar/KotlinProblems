@@ -1,10 +1,11 @@
 fun main() {
-    val line1 = readln()!!
-    val line2 = readln()!!
+    val line1 = readln().toInt()
+    val line2 = readln().toInt()
 
-    val product = line1 * line1
+    val product = line1 * line2
     if (product == 0) {
-        printn("It can't be zerO!")
+        println("It can't be zero!")
     } else {
-        println(product) 
+        println(product)
+    }
 }
