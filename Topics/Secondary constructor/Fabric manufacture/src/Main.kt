@@ -5,6 +5,9 @@ class Fabric(var color: String) {
         println("$color fabric is created")
     }
 
-    constructor() {
+    constructor(color: String, pattern: String, patternColor: String) : this(color) {
+        this.pattern = pattern
+        this.patternColor = patternColor
+        println("$patternColor $pattern pattern is printed on the fabric")
     }
 }

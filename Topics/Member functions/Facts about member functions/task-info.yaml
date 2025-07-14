@@ -10,6 +10,12 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/20648#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 14 Jul 2025 06:13:55 UTC"
 record: -1
+selected_options:
+  - 0
+  - 3
 local_check: false

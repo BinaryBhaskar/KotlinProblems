@@ -10,7 +10,7 @@ files:
           length: 23
           offset: 0
         initialized_from_dependency: false
-        selected: false
+        selected: true
         status: Solved
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6250#comment
